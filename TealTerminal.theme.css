@@ -1,0 +1,58 @@
+/**
+ * @name Teal Terminal
+ * @author ERROR 404; NULL NOT FOUND#4586
+ * @version 1.0
+ * @description Based off of my windows terminal
+ * @authorId 716469153812447233
+ * @updateUrl
+ */
+
+ :root{
+    --background-accent: transparent;
+     --text-normal: rgb(2, 226, 255);
+     --header-primary: rgb(4, 104, 117);
+     --background-primary: regba(0,0,0,0);
+     --background-secondary: transparent;
+     --background-image: url(https://i.ibb.co/MhRj22r/terminal-wallpaper.png);
+     --background-position: center;
+	--background-size: cover;
+	--background-repeat: no-repeat;
+	--background-attachment: fixed;
+    --background-tertiary: transparent;
+    --background-secondary-alt: transparent;
+    --channeltextarea-background: transparent;
+    --activity-card-background: transparent;
+    --interactive-hover: rgb(2, 226, 255);
+    --channels-default:rgb(2, 226, 255);
+    --interactive-active: rgb(2, 226, 255);
+    --text-muted: rgb(1, 97, 104);
+    --interactive-muted: rgb(1, 97, 104);
+    --background-floating: rgba(0, 158, 163, 0.4);
+    --brand-experiment: rgba(0, 158, 163, 0.4);
+    --interactive-normal: rgb(2, 226, 255);
+
+ }
+ .bg-h5JY_x {
+    background: var(--background-image) var(--background-position)/var(--background-size) var(--background-repeat) var(--background-attachment);
+ }
+ .container-1giJp5 {
+    padding: 0px;
+}
+.container-3baos1{
+    padding: 0px;
+}
+.scroller-1Bvpku{
+    background-color: transparent;
+}
+.button-14-BFJ {
+    color: rgb(2, 226, 255);
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91{
+    color: rgb(2, 226, 255);
+}
+button{
+    color:rgba(0, 158, 163, 0.4);
+}
+.app-2rEoOp{
+    background-color: var(--background-tertiary);
+}
